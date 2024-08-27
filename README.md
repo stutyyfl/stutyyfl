@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindo ao meu perfil 
 
-<!--
-**stutyyfl/stutyyfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Izabelle de Souza
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo no linguagem [JavaScript](https://editor.p5js.org)
+
+-Uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+### Voce pode entrar me contato comigo 
+
+izabelle.souza.santos@escola.pr.gov.br
